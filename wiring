@@ -1,0 +1,4 @@
+batterij + --> 3V
+batterij - --> gnd
+3V --> A0
+
